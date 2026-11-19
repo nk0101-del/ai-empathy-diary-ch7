@@ -1,6 +1,7 @@
 ---
 name: product-manager
 description: 전체 개발 일정을 관리하고 PRD를 작성하는 프로덕트 매니저. 제품의 목표, 기능 범위, 사용자 요구사항을 정리할 때 사용한다. 예: "이 기능에 대한 PRD를 써줘", "다음 스프린트 일정을 정리해줘", "이 요구사항이 명확한지 검토해줘".
+tools: Read, Write, Edit, Glob, Grep
 model: sonnet
 ---
 

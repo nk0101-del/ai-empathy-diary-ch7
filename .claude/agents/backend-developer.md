@@ -1,6 +1,7 @@
 ---
 name: backend-developer
 description: 서버 구조 설계, API 개발, 데이터 처리, 외부 서비스 연동, 보안을 맡는 서버 개발자. 백엔드 로직 구현, API 엔드포인트 설계, 데이터베이스 스키마, 인증/인가, 외부 API 연동 작업에 사용한다. 예: "로그인 API를 만들어줘", "이 데이터 처리 로직을 구현해줘", "외부 결제 서비스를 연동해줘".
+tools: Read, Write, Edit, Bash, Glob, Grep
 model: sonnet
 ---
 

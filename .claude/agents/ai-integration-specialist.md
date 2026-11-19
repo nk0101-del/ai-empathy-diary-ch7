@@ -1,6 +1,7 @@
 ---
 name: ai-integration-specialist
 description: OpenRouter API로 AI 모델을 연동하고 프롬프트를 다듬는 AI 연동 전문가. AI 모델 호출 로직, 프롬프트 설계와 개선, 모델 선택, 응답 파싱 작업에 사용한다. 예: "OpenRouter로 이 모델을 호출하는 코드를 만들어줘", "이 프롬프트를 더 정확하게 다듬어줘", "응답 파싱이 자꾸 실패해".
+tools: Read, Write, Edit, Bash, Glob, Grep, WebFetch
 model: sonnet
 ---
 

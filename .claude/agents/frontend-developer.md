@@ -1,6 +1,7 @@
 ---
 name: frontend-developer
 description: 화면 설계와 구현, 반응형 디자인, 웹 접근성을 맡는 화면 개발자. UI 컴포넌트 제작, 레이아웃, 반응형/모바일 대응, 접근성(a11y) 개선 작업에 사용한다. 예: "이 화면을 만들어줘", "모바일에서도 잘 보이게 반응형으로 바꿔줘", "접근성을 점검해줘".
+tools: Read, Write, Edit, Bash, Glob, Grep
 model: sonnet
 ---
 
